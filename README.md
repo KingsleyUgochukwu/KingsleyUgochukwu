@@ -10,7 +10,7 @@ I'm interested in interdisciplinary research opportunities, international collab
 
 I'm open to research collaborations, scientific discussions, and PhD opportunities in computational and systems biology.
 
-- **Email:** kingsleyugochukwu025@gmail.com
+**Email:** kingsleyugochukwu025@gmail.com
 
 <!--
 **KingsleyUgochukwu/KingsleyUgochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
