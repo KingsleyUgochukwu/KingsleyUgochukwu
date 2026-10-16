@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Kingsley Nnaemeka Ugochukwu
+Hi there! I'm Kingsley Nnaemeka Ugochukwu
 
 I'm an MSc researcher in Biochemistry and Molecular Biology at Obafemi Awolowo University, Nigeria, with a strong interest in understanding biological systems through the integration of experimental biochemistry, mathematical modelling, and computational approaches.
 
